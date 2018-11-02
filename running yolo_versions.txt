@@ -1,0 +1,7 @@
+General format
+cd darknet
+./darknet detector  <any of test/train/demo> <Location of .data file> <location of .cfg file> <location of weights file> <test image if test, video if demo, empty for webcam> 
+
+if Doubt
+refer to the custom dataset pdf file for details of changing the cfg files and data files
+on git lab
