@@ -6,7 +6,7 @@ The products of such a initiative are,
 1. Leg Detection for smart cane project : Applying Computer vision to detect objects in the environment and assist blind people to navigate through busy environments. The dataset developed essentially consists of a single class, which are hand annoted images of legs of persons.
 # Results:
 
-[![Leg Detection](https://drive.google.com/file/d/1dBpY8qM6M4qarDusnrgTYWQO1Hn1QjAR/view?usp=sharing)](https://www.youtube.com/watch?v=XO6vIVuBunY)
+[![Leg Detection](https://github.com/sbperceptron/Object-Detection-Using-YOLO/blob/master/Screenshot%20(4).png)](https://www.youtube.com/watch?v=XO6vIVuBunY)
 
 
 
